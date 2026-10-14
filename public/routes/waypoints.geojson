@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "waypoints",
+"features": [
+{ "type": "Feature", "properties": { "name": "from", "type": "from" }, "geometry": { "type": "Point", "coordinates": [ 16.8231711, 47.954546 ] } },
+{ "type": "Feature", "properties": { "name": "via1", "type": "via" }, "geometry": { "type": "Point", "coordinates": [ 16.8217518, 47.6536656 ] } },
+{ "type": "Feature", "properties": { "name": "via2", "type": "via" }, "geometry": { "type": "Point", "coordinates": [ 16.7915035, 47.6366626 ] } },
+{ "type": "Feature", "properties": { "name": "via3", "type": "via" }, "geometry": { "type": "Point", "coordinates": [ 16.6656418, 47.6428596 ] } },
+{ "type": "Feature", "properties": { "name": "via4", "type": "via" }, "geometry": { "type": "Point", "coordinates": [ 16.7229595, 47.926747 ] } },
+{ "type": "Feature", "properties": { "name": "to", "type": "to" }, "geometry": { "type": "Point", "coordinates": [ 16.8232098, 47.9555287 ] } }
+]
+}
